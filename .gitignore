@@ -1,0 +1,5 @@
+*.pyc
+
+# For Python development using Eclipse IDE
+.project
+.pydevproject
